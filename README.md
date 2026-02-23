@@ -69,8 +69,7 @@ Puedes consultar mi CV aquí:
 ## 📫 Contacto
 
 - LinkedIn: [https://www.linkedin.com/in/juan-pablo-camporeale-5911621b4/](https://www.linkedin.com/in/juan-pablo-camporeale-5911621b4/)
-- Email: [juanpablo88782@gmail.com](juanpablo88782@gmail.com)
-
+- Email: juanpablo88782@gmail.com
 ---
 
 ⭐ Siempre abierto a nuevas oportunidades y colaboraciones.
