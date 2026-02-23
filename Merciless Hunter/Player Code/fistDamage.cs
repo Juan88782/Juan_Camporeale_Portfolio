@@ -1,3 +1,7 @@
+// Author: Juan Pablo Camporeale
+// File: Player.cs
+// Date: 12/12/2024
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
