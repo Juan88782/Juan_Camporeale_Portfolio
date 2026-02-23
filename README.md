@@ -62,7 +62,7 @@ Todavía no lo he publicado porque quiero mejorar ciertos aspectos técnicos y d
 
 Puedes consultar mi CV aquí:
 
-👉 [Ver CV](https://github.com/Juan88782/Juan_Camporeale_Portfolio/blob/main/TU_CV.pdf)
+👉 [Ver CV](https://github.com/Juan88782/Juan_Camporeale_Portfolio/blob/main/Game_Dev_CV_Juan_Cmporeale.pdf)
 
 ---
 
