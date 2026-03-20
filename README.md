@@ -1,6 +1,7 @@
 # 👋 Juan Camporeale
 
 Desarrollador de software con especial interés en el desarrollo de videojuegos y backend. Me apasiona crear sistemas eficientes y experiencias interactivas bien diseñadas, combinando lógica, arquitectura y creatividad.
+Si hay algo que estas buscando del no tengo conocimienos o experiencia, estoy mas que dispuesto a darlo todo por aprenderlo!
 
 ---
 
